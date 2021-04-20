@@ -1,5 +1,12 @@
 ### Hi there 👋
-vxcv
+
+I'm Connor. An Indie Game Developer based in the UK.
+
+I have a big project I'm working on right now, and have been since June 2020.
+It's going well, and I have built some things that I plan to make public on here once the Project is complete!
+
+Until then... this README remains barren, sorry!
+
 <!--
 **Wave10Connor/Wave10Connor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
