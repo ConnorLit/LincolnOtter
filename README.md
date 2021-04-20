@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hi there 👋
 
 I'm Connor. An Indie Game Developer based in the UK.
 
