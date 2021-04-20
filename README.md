@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-I'm Connor. An Indie Game Developer based in the UK. 🎮
+I'm Connor. A Developer based in the UK.
 
-I have a big project I'm working on right now, and have been since June 2020.
+For work I code with C#, PowerShell and SQL... But I love making video games!
+
+I have a big Indie Game 🎮 project I'm working on right now, and have been since June 2020.
 It's going well, and I have built some things that I plan to make public on here once the Project is complete! 💻
 
 Until then... this README remains barren, sorry! ✌
