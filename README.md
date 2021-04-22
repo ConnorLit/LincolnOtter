@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Connor. A Developer based in the UK.
+I'm LincolnOtter. A Developer based in the UK.
 
 For work I code with C#, PowerShell and SQL... But I love making video games!
 
