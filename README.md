@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm LincolnOtter. A Developer based in the UK and I code with GameMaker Language, C#, PowerShell and SQL.
+I'm Otter. A Developer based in the UK and I code with GameMaker Language, C#, PowerShell and SQL.
 
 I am very passionate about buidling Video Games.
 
