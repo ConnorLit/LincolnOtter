@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-I'm Otter. A Developer based in the UK and I code with GML, C# and PowerShell.
+I'm Otter. A Developer based in the UK and I code with PowerShell, GML, and C#.
 
-I am very passionate about buidling Video Games.
-
-I have a big Indie Game 🎮 project I'm working on right now, and have been since June 2020.
+I spend most of my spare time working on person Game Dev projects. I currently have a big Project I've been working for just over a year. 🎮
 It's going well, and I have built some things that I plan to make public on here once the Project is complete! 💻
 
 Until then... this README remains barren, sorry! ✌
